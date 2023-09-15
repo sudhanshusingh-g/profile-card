@@ -19,13 +19,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/sudhanshusingh-g/profile-card)
+- Live Site URL: [Profile Card](https://sudhanshusingh-g.github.io/profile-card/)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Sudhanshu Singh](https://www.linkedin.com/in/sudhanshusingh32/)
+- Twitter - [Sudhanshu Singh](https://twitter.com/_sudhanshu97)
 
